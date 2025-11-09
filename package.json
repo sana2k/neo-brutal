@@ -1,0 +1,43 @@
+{
+  "name": "neo-brutal",
+  "displayName": "neo-brutal",
+  "description": "Bold Neo-Brutalism theme with thick black borders, high contrast colors, and harsh shadows. Intentionally raw and unapologetic design for your code editor.",
+  "version": "0.0.1",
+  "publisher": "talha2k",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo Brutal",
+        "uiTheme": "vs",
+        "path": "./themes/Neo Brutal-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sana2k/neo-brutal.git"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "neo-brutalism",
+    "brutalist",
+    "bold",
+    "high-contrast",
+    "borders",
+    "vibrant",
+    "aggressive"
+  ],
+  "author": {
+    "name": "Talha Khan",
+    "email": "hello@talha2k.com"
+  },
+  "license": "MIT"
+}
