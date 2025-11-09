@@ -2,7 +2,7 @@
   "name": "neo-brutal",
   "displayName": "Neo Brutal",
   "description": "Bold Neo-Brutalism theme with thick black borders, high contrast colors, and harsh shadows. Intentionally raw and unapologetic design for your code editor.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "talha2k",
   "icon": "images/logo.png",
   "engines": {
